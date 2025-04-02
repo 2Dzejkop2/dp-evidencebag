@@ -26,7 +26,7 @@ Advanced Evidence Bag System for ox_inventory. This resource adds functional evi
 ['evidencebag'] = {
     label = 'Evidence Bag',
     weight = 100,
-    stack = true,
+    stack = false,
     close = true,
     description = 'Used to collect and preserve evidence at crime scenes',
     image = 'paperbag.png',
