@@ -1,6 +1,6 @@
 # dp-evidencebag
 
-[Evidence Bag](https://forum-cfx-re.akamaized.net/optimized/5X/0/8/e/f/08ef0b73bc2e63568f9f426abd3bb926b52e1fb9_2_690x239.png)
+![Evidence Bag](https://forum-cfx-re.akamaized.net/optimized/5X/0/8/e/f/08ef0b73bc2e63568f9f426abd3bb926b52e1fb9_2_690x239.png)
 
 ## Description
 Advanced Evidence Bag System for ox_inventory. This resource adds functional evidence bags that can be used to collect and preserve evidence at crime scenes.
