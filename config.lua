@@ -1,6 +1,6 @@
 Config = {}
 
-Config.EvidenceBagItem = 'paperbag' -- Item name of EvidenceBag
+Config.EvidenceBagItem = 'evidencebag' -- Item name of EvidenceBag
 
 Config.EvidenceBagStorage = {
     slots = 30,     -- Slots of EvidenceBag storage
@@ -8,7 +8,7 @@ Config.EvidenceBagStorage = {
 }
 
 -- Language settings
-Config.Language = 'cs' -- Options: 'en', 'cs'
+Config.Language = 'en' -- Options: 'en', 'cs'
 
 -- Translations
 Config.Locales = {
@@ -32,6 +32,7 @@ Config.Locales = {
         ['system_shutdown'] = 'Evidence Bag System Shut Down',
         ['error_nil_identifier'] = 'Error: Attempted to open evidence bag with nil identifier',
         ['error_metadata'] = 'Failed to set metadata for evidence bag',
+        ['cannot_place_bag'] = 'You cannot place an evidence bag inside another evidence bag',
     },
     
     ['cs'] = {
@@ -54,6 +55,7 @@ Config.Locales = {
         ['system_shutdown'] = 'Systém sáčků s důkazy ukončen',
         ['error_nil_identifier'] = 'Chyba: Pokus o otevření sáčku s důkazy s chybějícím identifikátorem',
         ['error_metadata'] = 'Nepodařilo se nastavit metadata pro sáček s důkazy',
+        ['cannot_place_bag'] = 'Nemůžete vložit sáček s důkazy do jiného sáčku s důkazy',
     }
 }
 
