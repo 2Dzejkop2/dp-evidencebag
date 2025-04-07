@@ -69,7 +69,7 @@ Join our Discord server for support, updates, and discussions:
 
 ## Credits
 - Author: Dzejkop
-- Version: 1.0.0
+- Version: 1.0.1
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
